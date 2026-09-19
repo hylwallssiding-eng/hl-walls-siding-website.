@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hylwallssiding-eng.github.io/hl-walls-siding-website./sitemap.xml
